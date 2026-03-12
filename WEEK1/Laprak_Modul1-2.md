@@ -10,6 +10,7 @@ Download dan Installasi Wireshark dan Mempelajari Tools Wireshark
 
 2. Setelah downnload selesai lakukan installasi Wireshark di laptop, dengan cara klik dua kali file yang telah kalian download<br>
    ![Tampilan setelah di klik dua kali](../assets/image/Modul1.2.png)<br>
+   
    Pilih open
    ![Tampian setelah pilih open](../assets/image/Modul1.3.png)<br>
    Geser Wireshark ke application dan juga lakukan intsall ChmodBPF.pkg
