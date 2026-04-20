@@ -183,4 +183,7 @@ finally:
 Contoh di terminal:
 ![HTTP Get](../assets/image/Modul7.2.png)
 
+## Kesimpulan
+Socket digunakan untuk komunikasi antar perangkat dalam jaringan. TCP cocok untuk data penting karena sebelum mengirim data harus membuat koneksi terlebih dahulu. Kelebihannya adalah data lebih aman, terjamin sampai, dan berurutan, tetapi prosesnya lebih lambat. Sedangkan UDP cocok untuk komunikasi cepat tanpa prioritas keakuratan karena tidak perlu membuat koneksi sehingga pengiriman data lebih cepat dan sederhana, namun tidak ada jaminan data sampai atau urut.
+
 ## Terima Kasih
