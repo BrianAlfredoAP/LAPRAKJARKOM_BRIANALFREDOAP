@@ -15,8 +15,8 @@ Repository ini berisi kumpulan hasil praktikum mata kuliah Jaringan Komputer yan
 - [x] Modul 6 – TCP  
 - [x] Modul 7 – Socket Programming  
 - [ ] Modul 8 – Tugas Besar  
-- [ ] Modul 9 – Web Server  
-- [ ] Modul 10 – IP  
+- [-] Modul 9 – Web Server  
+- [-] Modul 10 – IP  
 - [ ] Modul 11 – DHCP  
 - [ ] Modul 12 – ICMP  
 - [ ] Modul 13 – ARP  
