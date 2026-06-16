@@ -9,6 +9,20 @@ NIM     : 103072400165
 ## Apa itu DHCP?
 DHCP (Dynamic Host Configuration Protocol) adalah protokol jaringan yang digunakan untuk memberikan alamat IP dan konfigurasi jaringan lainnya secara otomatis kepada perangkat yang terhubung ke jaringan. Dengan adanya DHCP, pengguna tidak perlu mengatur IP address, subnet mask, gateway, atau DNS secara manual karena semua informasi tersebut diberikan langsung oleh server DHCP. Protokol ini sangat membantu dalam pengelolaan jaringan, terutama pada jaringan yang memiliki banyak perangkat, karena membuat proses konfigurasi menjadi lebih cepat, mudah, dan mengurangi risiko terjadinya kesalahan atau konflik alamat IP.
 
+## Kelebihan DHCP
+1. Tidak perlu mengatur alamat IP secara manual karena semuanya diberikan secara otomatis oleh server DHCP.
+2. Proses konfigurasi jaringan jadi lebih cepat dan praktis, terutama jika perangkat yang terhubung jumlahnya banyak.
+3. Mengurangi kemungkinan terjadinya kesalahan saat memasukkan konfigurasi IP.
+4. Membantu mencegah konflik IP karena pembagian alamat dilakukan secara terpusat.
+5. Memudahkan administrator jaringan dalam mengelola dan mengubah konfigurasi jaringan.
+
+## Kekurangan DHCP
+1. Jika server DHCP mengalami gangguan atau mati, perangkat baru tidak bisa mendapatkan alamat IP.
+2. Jaringan menjadi bergantung pada server DHCP untuk proses pemberian alamat IP.
+3. Ada risiko keamanan jika terdapat DHCP Server palsu yang memberikan konfigurasi jaringan yang salah.
+4. Kurang cocok digunakan untuk perangkat yang membutuhkan alamat IP tetap, seperti server atau printer jaringan.
+5. Jika terjadi kesalahan konfigurasi pada server DHCP, banyak perangkat dalam jaringan bisa ikut terdampak.
+
 ## Langkah-Langkah
 1. Mengunduh file http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces.zip.
 2. Mengekstrak file yang telah diunduh.

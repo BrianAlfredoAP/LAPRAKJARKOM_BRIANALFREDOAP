@@ -14,15 +14,15 @@ Repository ini berisi kumpulan hasil praktikum mata kuliah Jaringan Komputer yan
 - [x] Modul 5 – UDP  
 - [x] Modul 6 – TCP  
 - [x] Modul 7 – Socket Programming  
-- [ ] Modul 8 – Tugas Besar  
+- [x] Modul 8 – Tugas Besar  
 - [x] Modul 9 – Web Server  
 - [x] Modul 10 – IP  
-- [ ] Modul 11 – DHCP  
-- [ ] Modul 12 – ICMP  
-- [ ] Modul 13 – ARP  
-- [ ] Modul 14 – WiFi  
-- [ ] Modul 15 – Presentasi  
-- [ ] Modul 16 – Asistensi  
+- [x] Modul 11 – DHCP  
+- [x] Modul 12 – ICMP  
+- [x] Modul 13 – ARP  
+- [x] Modul 14 – WiFi  
+- [x] Modul 15 – Presentasi  
+- [x] Modul 16 – Asistensi  
 
 ## Insight
 Praktkum ini memberikan pengalaman langsung dalam memahami konsep jaringan komputer, baik dari sisi analisis maupun implementasi, sehingga membantu meningkatkan pemahaman secara keseluruhan
